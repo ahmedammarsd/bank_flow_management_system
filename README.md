@@ -34,13 +34,13 @@ This project is a console-based banking system written in C++ using object-orien
 From the project root, compile the application with:
 
 ```bash
-g++ app/main.cpp -Icore -Ilibs -Iscreens/auth -Iscreens/clients -Iscreens/users -Iscreens/currency -Iscreens/common -Iglobal -o app/bank_system.exe
+g++ app/main.cpp -Icore -Ilibs -Iscreens/auth -Iscreens/clients -Iscreens/users -Iscreens/currency -Iscreens/common -Iglobal -o app/main.exe
 ```
 
 Then run:
 
 ```bash
-./app/bank_system.exe
+./app/main.exe
 ```
 
 ## Notes
